@@ -200,7 +200,7 @@ $(function () {
         ],
         series: [
             {
-                name: 'test1',
+                name: '排放量',
                 type: 'line',
                 smooth: true,
                 symbol: 'roundRect',
